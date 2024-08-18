@@ -30,7 +30,7 @@ Bu programı çalıştırmak için aşağıdaki adımları izleyin:
 Programı çalıştırmak için terminal veya komut satırında aşağıdaki komutu çalıştırın:
 
 ```
-python hesap_makinesi.py
+python hesapMakinesi.py
 ```
 Hesap makinesi açıldığında, basit bir arayüz ile işlemlerinizi gerçekleştirebilirsiniz:
 
