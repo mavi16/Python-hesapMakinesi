@@ -38,7 +38,8 @@ Sayıları ve işlemleri seçmek için ilgili butonlara tıklayın.
 = butonuna basarak sonucu görün.
 C butonuna basarak ekranı temizleyin.
 √, 10^x, ve log butonlarıyla ilgili işlemleri gerçekleştirebilirsiniz.
-EXE Olarak Çalıştırma
+
+## EXE Olarak Çalıştırma
 Programı doğrudan çalıştırmak için EXE sürümünü kullanabilirsiniz. EXE dosyasını çalıştırarak Python kurulumu olmadan programı kullanabilirsiniz.
 
 ## Yazar
